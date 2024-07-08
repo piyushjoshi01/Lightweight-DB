@@ -1,0 +1,12 @@
+Name:Piyush
+SQL Queries Entered:CREATE DATABASE Assignment-1
+Date and Time2024-02-24T23:19:08.907286900
+Name:Piyush
+SQL Queries Entered:CREATE TABLE Table-1(ID int,Name varchar)
+Date and Time2024-02-24T23:24:03.192214600
+Name:Piyush
+SQL Queries Entered:INSERT INTO Table-1(ID int, Name varchar) VALUES ("1","Piyush")
+Date and Time2024-02-24T23:25:24.184548600
+Name:PiyushSQL
+Queries Entered:CREATE TABLE table1(column type,column2 type2)
+Name:Piyush/nSQL Queries Entered:SELECT * FROM table1 WHERE id=1Date and Time2024-02-25T10:24:49.144160300Name:Piyush/nSQL Queries Entered:CREATE DATABASE Assignment-1Date and Time2024-02-25T10:26:20.087057600Name:Piyush/nSQL Queries Entered:SELECT * FROM table1 WHERE id=1Date and Time2024-02-25T10:26:47.599318200
